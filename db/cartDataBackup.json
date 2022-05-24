@@ -1,0 +1,10 @@
+[{"id":"0503d7c3-050b-4f22-80aa-fc1ced865953","desc":"milk","quantity":"5", "regularPrice":1.99,"memberPrice":1.50,"taxStatus":"Exempt","completadoEn":"2022-05-22T21:11:10.809Z"},
+  {"id":"7eeeebc2-4e43-4a1c-bfd4-58a09c697e08","desc":"Redbull","quantity":"6","regularPrice":4.30,"memberPrice":4,"taxStatus":"Taxable","completadoEn":null},
+  {"id":"e9c4598b-ddf6-4b54-87a2-83444031332a","desc":"Flour","quantity":"9","regularPrice":3.20,"memberPrice":2.75,"taxStatus":"Exempt","completadoEn":null},
+  {"id":"283bba36-1b31-4527-b55e-2905b4d8187a","desc":"Oreo cookies","quantity": "10","regularPrice":1.00,"memberPrice":0.50,"taxStatus":"Taxable","completadoEn":null},
+  {"id":"5530201b-b602-46a3-862d-e984a290708f","desc":"Ice","quantity":"12","regularPrice":12,"memberPrice":4.75,"taxStatus":"Exempt","completadoEn":null},
+  {"id":"29b1de3d-5d20-481e-aa8a-bda638409024","desc":"Coca-cola","quantity":"2","regularPrice":2.12,"memberPrice":1.85,"taxStatus":"Taxable","completadoEn":null},
+  {"id":"3e83eb1a-db75-4f6a-9997-8fe04b5580a6","desc":"SevenUp","quantity":"6","regularPrice":1.99,"memberPrice":1.00,"taxStatus":"Taxable","completadoEn":null},
+  {"id":"9ab2167b-710f-42a2-8100-63af8bc244cd","desc":"Potato Chips","quantity":"8","regularPrice":2.35,"memberPrice":1.99,"taxStatus":"Taxable","completadoEn":null},
+  {"id":"bdbb26c5-dfb8-43c8-9d70-3426f3d11020","desc":"Bread","quantity":"11","regularPrice":3.45,"memberPrice":2.60,"taxStatus":"Taxable","completadoEn":null},
+  {"id":"f433802c-c2e2-4277-b268-52fb31ad3e55","desc":"Pizza slice","quantity":"12","regularPrice":2.35,"memberPrice":2.05,"taxStatus":"Taxable","completadoEn":null}]

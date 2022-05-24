@@ -1,0 +1,11 @@
+=====================
+ TRANSACTION RECEIPT 
+ =====================
+1. milk  Price ::  $1.5  Transaction Date  :: 2022-05-24T07:15:03.718Z
+2. Coca-cola  Price ::  $1.85  Transaction Date  :: 2022-05-24T06:36:08.655Z
+3. SevenUp  Price ::  $1  Transaction Date  :: 2022-05-24T07:04:29.219Z
+4. Bread  Price ::  $2.6  Transaction Date  :: 2022-05-24T04:29:08.927Z
+5. Pizza slice  Price ::  $2.05  Transaction Date  :: 2022-05-24T07:04:29.219Z
+SUB-TOTAL :$9.00
+TAX (6,5%) :$0.45
+TOTAL CHECKOUT :$9.45
